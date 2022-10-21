@@ -1,0 +1,15 @@
+C:\Users\bleat\source\repos\DesignPatternsLab\bin\Debug\net6.0\DesignPatternsLab.exe
+C:\Users\bleat\source\repos\DesignPatternsLab\bin\Debug\net6.0\DesignPatternsLab.deps.json
+C:\Users\bleat\source\repos\DesignPatternsLab\bin\Debug\net6.0\DesignPatternsLab.runtimeconfig.json
+C:\Users\bleat\source\repos\DesignPatternsLab\bin\Debug\net6.0\DesignPatternsLab.dll
+C:\Users\bleat\source\repos\DesignPatternsLab\bin\Debug\net6.0\DesignPatternsLab.pdb
+C:\Users\bleat\source\repos\DesignPatternsLab\obj\Debug\net6.0\DesignPatternsLab.csproj.AssemblyReference.cache
+C:\Users\bleat\source\repos\DesignPatternsLab\obj\Debug\net6.0\DesignPatternsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bleat\source\repos\DesignPatternsLab\obj\Debug\net6.0\DesignPatternsLab.AssemblyInfoInputs.cache
+C:\Users\bleat\source\repos\DesignPatternsLab\obj\Debug\net6.0\DesignPatternsLab.AssemblyInfo.cs
+C:\Users\bleat\source\repos\DesignPatternsLab\obj\Debug\net6.0\DesignPatternsLab.csproj.CoreCompileInputs.cache
+C:\Users\bleat\source\repos\DesignPatternsLab\obj\Debug\net6.0\DesignPatternsLab.dll
+C:\Users\bleat\source\repos\DesignPatternsLab\obj\Debug\net6.0\refint\DesignPatternsLab.dll
+C:\Users\bleat\source\repos\DesignPatternsLab\obj\Debug\net6.0\DesignPatternsLab.pdb
+C:\Users\bleat\source\repos\DesignPatternsLab\obj\Debug\net6.0\DesignPatternsLab.genruntimeconfig.cache
+C:\Users\bleat\source\repos\DesignPatternsLab\obj\Debug\net6.0\ref\DesignPatternsLab.dll
