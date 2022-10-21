@@ -26,10 +26,6 @@ namespace DesignPatternsLab
             {
                 Console.WriteLine($"{i+1} {Countries[i].Name}");
             }
-            //string input = Console.ReadLine();
-            //int index = int.Parse(input);
-            //return index;  
-            
             
         }
     }

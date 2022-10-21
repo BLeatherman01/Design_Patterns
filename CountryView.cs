@@ -29,10 +29,7 @@ namespace DesignPatternsLab
               
                Console.WriteLine(color);
                
-            }
-            
-            
+            }             
         }
-    
-    }
+     }
 }
