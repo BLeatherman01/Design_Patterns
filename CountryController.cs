@@ -57,12 +57,12 @@ namespace DesignPatternsLab
         public void CountryListAction(CountryListView countryList)
         {
             
-            countryList.Display();
-            string input = Console.ReadLine();
-            int index = int.Parse(input);
             
             try
             {
+                countryList.Display();
+                string input = Console.ReadLine();
+                int index = int.Parse(input);
                 Country selectedCountry = CountryDB[index - 1];
                 CountryAction(selectedCountry);
             }
