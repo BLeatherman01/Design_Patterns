@@ -57,7 +57,6 @@ namespace DesignPatternsLab
         public void CountryListAction(CountryListView countryList)
         {
             
-            
             try
             {
                 countryList.Display();
@@ -67,6 +66,13 @@ namespace DesignPatternsLab
                 CountryAction(selectedCountry);
             }
             catch(ArgumentOutOfRangeException e)
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine($"Please select a number 1-{CountryDB.Count}");
+                Console.ForegroundColor = ConsoleColor.Blue;
+                CountryListAction(countryList);
+            }
+            catch(FormatException ex)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine($"Please select a number 1-{CountryDB.Count}");
